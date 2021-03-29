@@ -9,7 +9,7 @@ capturando la excepción en tipos de datos incorrectos al hacer el nextInt().
 válidos, capturará esa excepción. Así pues, habrá un try…catch en el main() y otro en la 
 función.
 
-Fecha:
+Fecha: 26/03/2021
 Alumno: Rafael Chamorro Maceiras
  */
 package com.mycompany.rcmt13;
